@@ -5,7 +5,7 @@
 
 }
 .header{
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(./img/banner.png);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(.banner.png);
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
@@ -276,7 +276,7 @@ background: rgba(211, 0, 0, 0.2);
 /* Call To action */
 .cta{
     margin: 100px auto;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(./img/banner2.jpg);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(./banner2.jpg);
     background-size: cover;
     background-position: center;
     border-radius: 10px;
@@ -321,7 +321,7 @@ background: rgba(211, 0, 0, 0.2);
 .sub-header{
     height: 50vh;
     text-align: center;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(./img/background.jpg);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(./background.jpg);
     background-size: cover;
     background-position: center;
     width: 100%;
